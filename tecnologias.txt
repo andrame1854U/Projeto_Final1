@@ -1,1 +1,2 @@
-
+Com base no cálculo do IMC, observe em qual grupo a pessoa entra
+São 6 grupos em que a pessoa pode se adequar, desde abaixo do normal até obesidade grau III
