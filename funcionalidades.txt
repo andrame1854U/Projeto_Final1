@@ -1,1 +1,2 @@
 Calcular IMC seguindo a formula peso (kg) / (altura (m) x altura (m))
+Pois calcular, deve classificar de acordo a tabela e direcionar o usuario para ajuda medica se for preciso 
